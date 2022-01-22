@@ -1,0 +1,1 @@
+openssl rsautl -decrypt -inkey keysymmetric.pem -in data.ssl -out dataplaintext.txt
